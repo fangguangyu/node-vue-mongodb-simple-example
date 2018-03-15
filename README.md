@@ -1,6 +1,6 @@
 # v-node
 
-> my first nodeproject
+> my first nodeproject  一个vue+node+mongoose的注册小案例
 
 ## Build Setup
 
